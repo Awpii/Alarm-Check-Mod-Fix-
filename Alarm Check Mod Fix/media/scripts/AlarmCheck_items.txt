@@ -1,0 +1,19 @@
+module AlarmCheck
+{
+	imports
+	{
+		Base
+	}
+
+	item AlarmMag
+	{
+		Weight = 0.1,
+		Type = Literature,
+		DisplayName = How to Check for Alarms,
+		Icon = alarm_magazine,
+		TeachedRecipes = Check for Alarm,
+		ReplaceOnUse = AlarmMag,
+		StaticModel = Magazine,
+		Tooltip = Tooltip_AlarmCheck_AlarmMag
+	}
+}

@@ -1,0 +1,6 @@
+UI_EN = {
+    UI_AlarmCheck_CheckAlarm = "Check for Alarm",
+    UI_is_alarm = "Alarm is found.",
+    UI_is_no_alarm = "No alarm found.",
+    UI_cant_check_alarm = "I can't pinpoint it."
+}

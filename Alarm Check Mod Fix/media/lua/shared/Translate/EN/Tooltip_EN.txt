@@ -1,0 +1,3 @@
+Tooltip_EN = {
+    Tooltip_AlarmCheck_AlarmMag = "Instructive manual containing security diagrams and electronic information on how to pinpoint Alarms in homes and vehicles."
+}
